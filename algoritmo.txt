@@ -1,0 +1,9 @@
+
+
+
+1-receber a idade
+2-verificar a idade
+3-se a idade for inferior a 16 anos informar que o voto não é permitido
+4-se a idade for entre 16 e 17 anos informar que  o voto é opcional
+5-se a idade for entre 18 e 69 anos informar que o voto é obrigatorio
+6-se a idade for igual ou superior a 70 anos informar que o voto é opicional
